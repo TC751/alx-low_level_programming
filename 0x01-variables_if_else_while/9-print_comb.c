@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include <stdio.h>
+
 /**
  * main - Prints all possible combinations of single-digit numbers.
  *
@@ -23,4 +25,3 @@ int main(void)
 
 	return (0);
 }
-
