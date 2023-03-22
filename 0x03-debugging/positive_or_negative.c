@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * positive_or_negative - checks if a number is positive or negative or zero
+ * positive_or_negative - Determines the sign of an integer and prints a message
+ * @i - The integer to be checked
  *
- *
- * int i - is an integer that is given as a parameter
  */
 
 void positive_or_negative(int i)
