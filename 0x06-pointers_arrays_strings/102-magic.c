@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - Prints the value 98, after modifying the
+ *        memory location five intergers after p
+ *
+ * Return: Always 0.
+*/
+
 int main(void)
 {
 	int n;
