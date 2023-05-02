@@ -6,6 +6,8 @@
 
 /**
  * struct listint_s - singly linked list
+ * int n - variable with a retur of an integer
+ * @next: points to the next code
  */
 typedef struct listint_s
 {
